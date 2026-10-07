@@ -33,7 +33,6 @@ The University Academic Management System is a relational database designed to m
 * DDL
 * DML
 * DQL
-* CRUD
 * Joins
 * Aggregate Functions
 * GROUP BY
@@ -41,7 +40,6 @@ The University Academic Management System is a relational database designed to m
 * Sorting (ORDER BY)
 * Pattern Matching (LIKE)
 * NULL Handling (IS NULL / IS NOT NULL)
-* Referential Integrity
 
 ## Database Entities
 
