@@ -77,22 +77,21 @@ Screenshots - Database execution evidence
 ## 👥 Contribution
 
 ### Manish Mandal – 25B11AI573
-- Database design and relational schema development
-- SQL implementation (DDL, DML & DQL)
-- Database constraints and data integrity
-- SQL query preparation and testing
-- GitHub repository management
 
-### D L Vaishnavi – 25B11AI261
+- SQL implementation (DDL, DML & DQL)
 - SQL query preparation and execution
-- CRUD operations and data retrieval
-- Database testing and validation
+- SQL query preparation and testing
 - Project documentation
+- GitHub repository management
+### D L Vaishnavi – 25B11AI261
+
+- Database testing and validation
 - Report review and refinement
+- Database design and relational schema development
+- presentation
 
 ### T Meghana – 25B11AIB75
 - ER diagram and database documentation
 - SQL query preparation and testing
-- Database relationship analysis
 - Project report preparation and review
 - Presentation and documentation support
